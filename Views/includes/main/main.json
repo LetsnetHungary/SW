@@ -5,7 +5,9 @@
       "/css/elements/fasthover.css",
       "/css/elements/popuo-box.css",
       "/css/elements/font-awesome.css",
-      "/css/elements/jquery.countdown.css"
+      "/css/elements/jquery.countdown.css",
+      "/slick/slick.css",
+      "/slick/slick-theme.css"
    ],
    "js": [
       "/js/elements/jquery.min.js",
@@ -15,7 +17,8 @@
       "/js/elements/jquery.countdown.js",
       "/js/elements/script.js",
       "/js/elements/jquery.wmuSlider.js",
-      "/js/elements/jquery.flexisel.js"
+      "/js/elements/jquery.flexisel.js",
+      "/slick/slick.min.js"
    ],
    "fonts": [
       "https://fonts.googleapis.com/css?family=Glegoo%3A400%2C700",
