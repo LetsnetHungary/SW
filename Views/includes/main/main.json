@@ -1,0 +1,24 @@
+{
+   "css": [
+      "/css/elements/bootstrap.css",
+      "/css/elements/style.css",
+      "/css/elements/fasthover.css",
+      "/css/elements/popuo-box.css",
+      "/css/elements/font-awesome.css",
+      "/css/elements/jquery.countdown.css"
+   ],
+   "js": [
+      "/js/elements/jquery.min.js",
+      "/js/elements/bootstrap-3.1.1.min.js",
+      "/js/elements/easyResponsiveTabs.js",
+      "/js/elements/jquery.magnific-popup.js",
+      "/js/elements/jquery.countdown.js",
+      "/js/elements/script.js",
+      "/js/elements/jquery.wmuSlider.js",
+      "/js/elements/jquery.flexisel.js"
+   ],
+   "fonts": [
+      "https://fonts.googleapis.com/css?family=Glegoo%3A400%2C700",
+      "https://fonts.googleapis.com/css?family=Open%20Sans%3A400%2C300%2C300italic%2C400italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic"
+   ]
+}

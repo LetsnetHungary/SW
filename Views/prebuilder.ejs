@@ -1,0 +1,3 @@
+<%- view.files.mainFiles.head == '---' ? include('includes/main/head.ejs') : include(view.files.mainFiles.head) %>
+<%- include(view.view + '/main.ejs') %>
+<%- view.files.mainFiles.foot == '---' ? include('includes/main/foot.ejs') : include(view.files.mainFiles.foot) %>
