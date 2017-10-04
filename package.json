@@ -1,0 +1,30 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "MVC",
+  "main": "app.js",
+  "scripts": {
+    "start": "node ./app",
+    "deploy": "gcloud preview app deploy"
+  },
+  "author": "Hegel Ákos",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^1.0.3",
+    "body-parser": "^1.17.2",
+    "cookie-parser": "^1.4.3",
+    "ejs": "^2.5.7",
+    "express": "^4.15.4",
+    "express-session": "^1.15.5",
+    "jquery-ui": "^1.12.1",
+    "mongoose": "^4.11.9",
+    "nodemailer": "^4.1.0",
+    "uuid-v4": "^0.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  },
+  "engines": {
+    "node": "8.1.4"
+  }
+}
